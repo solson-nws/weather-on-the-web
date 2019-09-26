@@ -169,6 +169,8 @@ The Met Ocean DWG will also produce a Best Practice document for implementing th
 
 6. API to retrieve a series of values within a 'corridor', that is, a trajectory with a surrounding buffer region along its length.
 
+7. API to incorporate use of n-dimensional indexed arrays approach for trimming and slicing efficiency.
+
 == IPR Policy for this SWG
 
 [x] RAND-Royalty Free
